@@ -7,25 +7,25 @@
       "availabe" : true
     },
     {
-      "title" : "lesson1",
+      "title" : "outputs, inputs and data types",
       "url": "some url",
       "quiz" : "some quiz_url",
       "availabe" : false
     },
     {
-      "title" : "lesson1",
+      "title" : "variables and operators",
       "url": "some url",
       "quiz" : "some quiz_url",
       "availabe" : false
     },
     {
-      "title" : "lesson1",
+      "title" : "logical operators and if statements",
       "url": "some url",
       "quiz" : "some quiz_url",
       "availabe" : false
     },
     {
-      "title" : "lesson1",
+      "title" : "simple project",
       "url": "some url",
       "quiz" : "some quiz_url",
       "availabe" : false
